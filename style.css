@@ -1,0 +1,23 @@
+*{
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.desc {
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  text-align: center;
+  margin-top: 15px;
+}
